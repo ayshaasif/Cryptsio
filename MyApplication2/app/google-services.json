@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "937650342677",
+    "project_id": "cryptsio-4bf6e",
+    "storage_bucket": "cryptsio-4bf6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937650342677:android:18987c548d4d7a2a2f771c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937650342677-iberqk0pknot2n8svur53oup62omvkd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqL-bv4E73NhB-vBxpXalEqLJmvqb4e1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937650342677-iberqk0pknot2n8svur53oup62omvkd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
