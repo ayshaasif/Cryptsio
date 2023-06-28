@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/circle.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/gradient_bg.xml" value="0.15052083333333333" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/rounded_corner.xml" value="0.240625" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/rounded_corners_red.xml" value="0.240625" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/upper_rounded_corner.xml" value="0.18958333333333333" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_home_page.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_login_page.xml" value="0.1" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_mini_statement.xml" value="0.16302083333333334" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_registration.xml" value="0.22" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_registration_page.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/item.xml" value="0.16302083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
